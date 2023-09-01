@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @znpifer
-- 👀 I play volleyball!
+- 🏐 I play volleyball!
 - 🌱 I’m currently learning C
   
   
